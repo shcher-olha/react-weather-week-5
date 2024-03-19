@@ -2,9 +2,9 @@
   font-family: arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-  
   border-radius: 4;
   color: rgb(135, 135, 135);
+  background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);;
 }
 
 .Weather h1 {
